@@ -59,7 +59,7 @@ Compile in terminal as shown below (or use ModusToolbox IDE).
 Connect the PSoC62 pioneer kit to your computer and execute the command below.
 
    ```bash
-   make flash
+   make program
    ```
 
 ### Run
