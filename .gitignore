@@ -1,0 +1,4 @@
+# Local IDE files
+mtb_shared/
+PSoC62_App/.mtbqueryapi
+PSoC62_App/.settings/modustoolbox.prefs
